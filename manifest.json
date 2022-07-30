@@ -10,8 +10,8 @@
       "omnibox_text": [40, 40, 40],
       "frame_inactive": [60, 60, 60],
       "ntp_text" : [85, 85, 85],
-      "tab_text" : [85, 85, 85],
-      "ntp_link" : [36, 70, 0],
+      // "tab_text" : [85, 85, 85]
+      "ntp_link" : [0, 0, 0],
       "ntp_section" : [207, 221, 192]
       // "button_background" : [255, 255, 255]
     },
